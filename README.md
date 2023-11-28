@@ -1,4 +1,4 @@
-# Supermarket-Sales-Analysis :chart_with_downwards_trend:
+# Supermarket-Sales-Analysis :chart_with_downwards_trend: :bar_chart:
 
 # Problemática 
 
