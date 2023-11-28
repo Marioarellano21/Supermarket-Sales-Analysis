@@ -10,6 +10,7 @@
 
 # Herramientas Utilizadas
   Para la realización del proyecto se usaron las siguientes herramientas:
+    
     1. Google Colaboratory. (Herramienta donde fue elaborado nuestro proyecto)
     2. Python.
     3. Pandas para el manejo y tratamiento de los datos.
