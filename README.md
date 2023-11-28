@@ -1,6 +1,6 @@
-# Supermarket-Sales-Analysis https://media.gettyimages.com/vectors/big-data-analysis-vector-id467563014
+# Supermarket-Sales-Analysis :chart_with_downwards_trend:
 
-# Problemática
+# Problemática 
 
   Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos para el periodo de tiempo comprendido entre el año 2019-2022. Para esto, se busca realizar un análisis sobre el patrón de comportamiento en las ventas del supermercado en dicho periodo, para generar posibles escennarios de aplicación basados en las fortalezas y debelidades encontradas.
 
@@ -15,4 +15,4 @@
     3. Pandas para el manejo y tratamiento de los datos.
     4. Matplotlib para la visualización de los insights que buscan dar respuesta a las preguntas propuestas por el cliente a través de distintos gráficos.
 
-# https://th.bing.com/th/id/R.5e441bc922d124d588de033edf6816be?rik=3IWPaQL2izhhRw&pid=ImgRaw&r=0 Insishgts
+# Insishgts 
