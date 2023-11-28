@@ -2,7 +2,7 @@
 
 # Problemática 
 
-  Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos para el periodo de tiempo comprendido entre el año 2019-2022. Para esto, se busca realizar un análisis sobre el patrón de comportamiento en las ventas del supermercado en dicho periodo, para generar posibles escennarios de aplicación basados en las fortalezas y debelidades encontradas.
+  Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos para el periodo de tiempo comprendido entre el año 2019-2022. Para esto, se busca realizar un análisis sobre el patrón de comportamiento en las ventas del supermercado en dicho periodo, para generar posibles escenarios de aplicación basados en las fortalezas y debelidades encontradas.
 
 # Objetivo
   
