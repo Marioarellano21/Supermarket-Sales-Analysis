@@ -27,6 +27,6 @@
 ![image](https://github.com/Marioarellano21/Supermarket-Sales-Analysis/assets/146877817/426d7d48-58f7-473d-accd-0d9cc1f71e1c)
 ## Conclusión
 <p align="justify">   Se puede presenciar un aumento progresivo de las ventas anualmente durante el periodo estudiado, donde el año en el que se realizaron mayores ventas es el 2022, en el cual crecieron un 18,89% con respecto al 2021, sin embargo podemos notar en el gráfico que este no fue el año con el mayor aumento de las ventas, el crecimiento más grande fue en el año 2021, y esto pudo deberse al efecto rebote de la pandemia en ese momento.</p>
-### Recomendaciones
+## Recomendaciones
 <p align="justify">   Aunque se puede observar que el crecimiento anualmente ha sido constante, se recomienda hacer hincapié en realizar campañas de marketing que permitan atraer nuevos compradores con el fin generar un aumento seguro y significativo de las ventas anualmente.</p>
   
