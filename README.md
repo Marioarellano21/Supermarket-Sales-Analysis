@@ -2,11 +2,11 @@
 
 # Problemática 
 
-<p align="justify">  Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos para el periodo de tiempo comprendido entre el año 2019-2022. Para esto, se busca realizar un análisis sobre el patrón de comportamiento en las ventas del supermercado en dicho periodo, para generar posibles escenarios de aplicación basados en las fortalezas y debelidades encontradas.</p>
+<p align="justify">  Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos para el periodo de tiempo comprendido entre el año 2019-2022. Para esto, se busca realizar un análisis sobre el patrón de comportamiento en las ventas del supermercado en dicho periodo, para generar posibles escenarios de aplicación basados en las fortalezas y debilidades encontradas.</p>
 
 # Objetivo
   
-<p align="justify">   Realizar un analisis sobre los datos de ventas de un Supermercado Online en Brasil, dando resultados precisos sobre el comportamiento de ventas, ganancias, regiones donde se realizan, productos mas vendidos y por ultimo los distintos segmentos de clientes que maneja con la finalidad de generar Insights que permitan tomar decisiones de manera óptima.</p>
+<p align="justify">   Realizar un análisis sobre los datos de ventas de un Supermercado Online en Brasil, dando resultados precisos sobre el comportamiento de ventas, ganancias, regiones donde se realizan, productos más vendidos y por ultimo los distintos segmentos de clientes que maneja con la finalidad de generar Insights que permitan tomar decisiones de manera óptima.</p>
 
 # Herramientas Utilizadas
   Para la realización del proyecto se usaron las siguientes herramientas:
@@ -22,7 +22,7 @@
 ![image](https://github.com/Marioarellano21/Supermarket-Sales-Analysis/assets/146877817/ea16d5a9-81dd-4423-8aa4-acabf77b813e)
 ## Conclusión
 
-<p align="justify">   Para poder realizar un manejo y análisis efectivo de los datos, se procedio a realizar una busqueda de datos atipicos dentro del conjunto de datos. Luego se procedio con la limpieza, para trabajar con un conjunto de datos adecuado para dar análisis más precisos y certeros, como se observa en la imagen, primero se muestran la cantidad de datos atípicos por tipo y luego la cantidad de datos luego de la limpieza.</p>
+<p align="justify">   Para poder realizar un manejo y análisis efectivo de los datos, se procedió a realizar una búsqueda de datos atípicos dentro del conjunto de datos. Luego se procedió con la limpieza, para trabajar con un conjunto de datos adecuado para dar análisis más precisos y certeros, como se observa en la imagen, primero se muestran la cantidad de datos atípicos por tipo y luego la cantidad de datos luego de la limpieza.</p>
 
 ## Pregunta 1 ¿Cuáles son las ventas totales por año?¿Y qué año tuvo mejor desempeño?
 ![image](https://github.com/Marioarellano21/Supermarket-Sales-Analysis/assets/146877817/426d7d48-58f7-473d-accd-0d9cc1f71e1c)
