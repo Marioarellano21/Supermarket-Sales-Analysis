@@ -34,4 +34,18 @@
 ## Recomendaciones
 
 <p align="justify">   Aunque se puede observar que el crecimiento anualmente ha sido constante, se recomienda hacer hincapié en realizar campañas de marketing que permitan atraer nuevos compradores con el fin generar un aumento seguro y significativo de las ventas anualmente.</p>
+
+## Pregunta 2 ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
+ ![image](https://github.com/Marioarellano21/Supermarket-Sales-Analysis/assets/146877817/f3c64b50-666e-470b-ae78-ea73d235897f)
+
+## Conclusión
+	
+<p align="justify">   Los datos indican que los 4 productos que generan mayores ganancias pertenecen al departamento de Electrónicos.</p>
+  
+<p align="justify">  	Se puede observar que el departamento de Productos de Limpieza tiene 2 productos dentro de este top 7, los cuales están generando un buen margen de ganancias, totalizando para el periodo de estudio un total de $109mil dólares americanos. Una de las razones por las que estos productos de limpieza se mantienen en este top, puede ser debido a que son de uso diario en los hogares o comercios. </p>
+ 
+## Recomendaciones
+
+<p align="justify">	Se recomienda incentivar al cliente a la compra de estos productos a través de promociones, con el fin de no solo mantener este margen de ganancias sino aumentarlo aún más, con el paso del tiempo. </p>
+
   
