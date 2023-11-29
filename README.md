@@ -42,7 +42,7 @@
 	
 <p align="justify">   Los datos indican que los 4 productos que generan mayores ganancias pertenecen al departamento de Electrónicos.</p>
   
-<p align="justify">  	Se puede observar que el departamento de Productos de Limpieza tiene 2 productos dentro de este top 7, los cuales están generando un buen margen de ganancias, totalizando para el periodo de estudio un total de $109mil dólares americanos. Una de las razones por las que estos productos de limpieza se mantienen en este top, puede ser debido a que son de uso diario en los hogares o comercios. </p>
+<p align="justify">  	Se puede observar que el departamento de Productos de Limpieza tiene 2 productos dentro de este top 7, los cuales tienen un buen margen de ganancias, totalizando para el periodo de estudio un total de $109mil dólares americanos. Una de las razones por las que estos productos de limpieza se mantienen en este top, puede ser debido a que son de uso diario en los hogares o comercios. </p>
  
 ## Recomendaciones
 
