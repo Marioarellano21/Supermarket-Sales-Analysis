@@ -1,4 +1,4 @@
-![image](https://github.com/Marioarellano21/Supermarket-Sales-Analysis/assets/146877817/d0af51da-0205-4db2-ad6f-096d84d17704)# Supermarket-Sales-Analysis :chart_with_downwards_trend: :bar_chart:
+# Supermarket-Sales-Analysis :chart_with_downwards_trend: :bar_chart:
 
 # Problemática 
 
