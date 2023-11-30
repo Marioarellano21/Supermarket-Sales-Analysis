@@ -90,6 +90,6 @@
 
 ## Recomendaciones
 
-<p align="justify"> Mantener contento ambos segmentos de cliente, ofrecer cada cierto descuentos y promociones por su fidelidad con el supermercado. </p>
+<p align="justify"> Mantener contento ambos segmentos de cliente, ofreciendo cada cierto tiempo descuentos y promociones por su fidelidad con el supermercado. </p>
 
   
