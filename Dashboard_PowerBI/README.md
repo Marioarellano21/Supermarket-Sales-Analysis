@@ -17,7 +17,4 @@ Este dashboard de una sola página fue desarrollado como complemento visual del 
 📁 **Datos:** Sintéticos (simulan operaciones reales del sector retail en Brasil)
 
 📸 Vista previa:
-![captura_dashboard](<img width="1210" height="678" alt="image" src="https://github.com/user-attachments/assets/4a5437c5-b29d-41e8-a303-fdefb8eaabfe" />
-)
-
----
+![Captura del Dashboard](Dashboard_PowerBI/captura_dashboard.png)
