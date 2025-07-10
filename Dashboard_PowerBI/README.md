@@ -1,4 +1,4 @@
-# Dashboard Power BI – Supermercado GONDI
+# Dashboard Power BI – Supermercado GONDI (Agregado 2025)
 
 Este dashboard de una sola página fue desarrollado como complemento visual del análisis exploratorio realizado en Python para este proyecto.
 
