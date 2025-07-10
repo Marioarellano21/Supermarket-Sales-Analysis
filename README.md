@@ -1,5 +1,13 @@
 # Supermarket-Sales-Analysis :chart_with_downwards_trend: :bar_chart:
 
+
+> [!NOTE]
+> Este análisis fue realizado con datos sintéticos simulando un entorno real de ventas multianual en retail. Los escenarios, patrones y métricas fueron construidos para representar desafíos típicos del negocio, aplicando principios de análisis exploratorio, visualización ejecutiva y recomendaciones accionables. <br>
+
+> [!CAUTION]
+> Utilizar con fines educativos :octocat:
+
+
 # Problemática 
 
 <p align="justify">  Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos para el periodo de tiempo comprendido entre el año 2019-2022. Para esto, se busca realizar un análisis sobre el patrón de comportamiento en las ventas del supermercado en dicho periodo, para generar posibles escenarios de aplicación basados en las fortalezas y debilidades encontradas.</p>
